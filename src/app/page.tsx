@@ -3,7 +3,7 @@ import { Details } from "@/_components/Details";
 import { Feature } from "@/_components/Feature";
 import { Footer } from "@/_components/Footer";
 import Hero from "@/_components/Hero";
-import HomeCarousel from "@/_components/HomeCarousel";
+
 import Team from "@/_components/Team";
 import React from "react";
 
