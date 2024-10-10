@@ -52,7 +52,7 @@ const Navbar = () => {
       </div>
       <div className="items-center px-4 pt-5 max-w-screen-xl mx-auto md:flex md:px-8">
         <div className="flex items-center object-fill justify-between md:block">
-          <div className="text-xl sm:text-4xl font-bold tracking-wider font-[math] flex gap-2">
+          <div className="hidden sm:text-4xl font-bold tracking-wider font-[math] flex gap-2">
             <span className="font-bold"></span>
             <a
               href="/"
